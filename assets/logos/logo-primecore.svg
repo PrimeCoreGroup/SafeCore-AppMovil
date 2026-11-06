@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 44" width="260" height="44">
+  <rect x="4" y="8" width="28" height="28" rx="6" fill="#1E293B"/>
+  <path d="M12 28 L18 14 L24 28" stroke="#fff" stroke-width="2.2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="44" y="29" font-family="Inter, sans-serif" font-size="18" font-weight="700" letter-spacing="0.5" fill="#1E293B">PrimeCore Group</text>
+</svg>
